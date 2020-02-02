@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: Ojhdt's Blog
+subtitle: Ojhdt's Blog
+description: 一个记录所见所想，分享认知的博客。游戏推荐，软件教程，资源共享，日常随笔交友的集合地。
+keywords: IT
+author: Ojhdt
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.ojhdt.com/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year:month:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing index.html from permalinks
@@ -92,7 +92,17 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: icarus
 
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  - type: git 
+    repo: 
+      vps: git@119.23.250.254:/home/hexo.git,master

@@ -10,7 +10,7 @@
                 <% } %>
                 </a>
                 <p class="is-size-7">
-                &copy; <%= date(new Date(), 'YYYY') %> <%= author || title %>&nbsp;
+                &copy; 2018-<%= date(new Date(), 'YYYY') %> <%= author || title %>&nbsp;
                 Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> & <a
                         href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a>
                 <% if (busuanzi) { %>
@@ -19,6 +19,8 @@
                 <%- _p('plugin.visitor', '<span id="busuanzi_value_site_uv">0</span>') %>
                 </span>
                 <% } %>
+				<br>
+				<a href="http://gd.beian.miit.gov.cn" rel="nofollow">粤ICP备19036271号-1</a>
                 </p>
             </div>
             <div class="level-end">

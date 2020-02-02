@@ -27,7 +27,7 @@
 <% let tocContent = buildToc(_toc(content)); if (tocContent !== undefined && tocContent !== ''){ %>
     <div class="card widget" id="toc">
         <div class="card-content">
-            <div class="menu">
+            <div class="menu" style="max-height: 400px; overflow: auto;">
                 <h3 class="menu-label">
                     <%= _p('widget.catalogue', Infinity) %>
                 </h3>
