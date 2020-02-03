@@ -3,7 +3,7 @@ title: 使用 Fancybox 为博客添加图片放大预览功能
 date: 2019-06-22 19:52:34
 categories: "小记"
 tags: [Fancybox,jQuery]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180908/0.png"
+thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190622/0.png"
 toc: true
 excerpt: "FancyBox 是一款基于jQuery的弹出库，用于呈现各种类型的媒体。 可以用于显示图片、视频，并可以响应很多交互操作。"
 ---
