@@ -175,7 +175,11 @@ widgets:
         # Links to be shown in the links widget
         links:
             Broca-Phenol: 'https://phenol-phthalein.info/'
-            Pluveto: 'https://www.pluvet.com/'
+            Pluveto: 'https://pluvet.com/'
+            咸鱼不咸: 'https://lcblog.cn/'
+            OMG: 'https://ohmyga.cn/'
+            Eltrac: 'https://guhub.cn/'
+            三十三言: 'https://o0o0o0.cn/'
 # Other plugin settings
 plugins:
     # Enable page animations

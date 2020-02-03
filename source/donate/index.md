@@ -1,6 +1,7 @@
 ---
 title: 捐赠
 thumbnail: https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/about/room.jpg
+comment: false
 ---
 
 写文章不易，请我喝一杯咖啡吧~
