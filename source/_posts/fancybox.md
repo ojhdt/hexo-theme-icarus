@@ -12,17 +12,13 @@ FancyBox 是一款基于jQuery的弹出库，用于呈现各种类型的媒体�
 在没有自带图片缩放功能的博客中，查看图片上的文字很不方便，Fancybox 提供的图片浏览功能可以很好的解决该问题。本文将综合官方文档和网络上所获得的介绍，分享一个安装及使用 Fancybox 的通用方法。
 
 #### 引入 FancyBox 库
-将以下代码添加到 </head> 标签前。由于 Hexo 的特殊文件结构，head 部分通常被单独划分至 `/themes/主题名/layout/_partial/head.ejs` 中。在不同主题中该路径可能有所更改。
+将以下代码添加到 `</head>` 标签前。由于 Hexo 的特殊文件结构，head 部分通常被单独划分至 `/themes/主题名/layout/_partial/head.ejs` 中。在不同主题中该路径可能有所更改。
 ```
 <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-```
-```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-```
-```
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ```
-至此，Fancybox 最基本的功能已经被成功安装，我们可以根据官方文档指引，在文章中加入
+至此，Fancybox 最基本的功能已经成功安装，我们可以根据官方文档指引，在文章中加入
 ```
 <a data-fancybox="gallery" href="big_1.jpg"><img src="small_1.jpg"></a>
 ```

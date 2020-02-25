@@ -106,3 +106,13 @@ deploy:
   - type: git 
     repo: 
       vps: git@119.23.250.254:/home/hexo.git,master
+  - type: baidu_url_submitter
+      
+sitemap:
+  path: sitemap.xml
+  
+baidu_url_submit:
+  count: 100 # 提交最新的一个链接
+  host: blog.ojhdt.com # 在百度站长平台中注册的域名
+  token: ZSNuIez9DoxAUoXQ # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
+  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里

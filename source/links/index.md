@@ -83,6 +83,17 @@ comment: false
       </a>  
 	</div> 
     <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
+      <a href="https://monsterx.cn/" target="_blank">
+	    <div class="mdui-card mdui-hoverable mdui-ripple">
+          <div class="mdui-card-header">
+          <img class="mdui-card-header-avatar" src="https://monsterx.cn/img/logo.jpg"/>
+            <div class="mdui-card-header-title">MonsterX</div>
+            <div class="mdui-card-header-subtitle">以梦为马，越骑越傻</div>
+          </div>
+	    </div>
+      </a>  
+	</div> 
+    <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
       <a href="https://haremu.com/" target="_blank">
 	    <div class="mdui-card mdui-hoverable mdui-ripple">
           <div class="mdui-card-header">
