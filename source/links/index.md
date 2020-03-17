@@ -196,7 +196,7 @@ comment: false
       <a href="https://zhebk.cn" target="_blank">
 	    <div class="mdui-card mdui-hoverable mdui-ripple">
           <div class="mdui-card-header">
-          <img class="mdui-card-header-avatar" src="https://cdn.zhebk.cn/AkinaCDN/images/akinadeaava.jpg"/>
+          <img class="mdui-card-header-avatar" src="https://q.qlogo.cn/g?b=qq&nk=945203919&s=100"/>
             <div class="mdui-card-header-title">纸盒博客</div>
             <div class="mdui-card-header-subtitle">我们，渺小到不可一世。</div>
           </div>
@@ -254,6 +254,17 @@ comment: false
           <img class="mdui-card-header-avatar" src="https://i.loli.net/2018/12/23/5c1e6ac43e125.jpg"/>
             <div class="mdui-card-header-title">桜庭夜</div>
             <div class="mdui-card-header-subtitle">悠哉日常大王。</div>
+          </div>
+	    </div>
+      </a>  
+	</div>
+    <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
+      <a href="https://www.imaegoo.com/" target="_blank">
+	    <div class="mdui-card mdui-hoverable mdui-ripple">
+          <div class="mdui-card-header">
+          <img class="mdui-card-header-avatar" src="https://www.imaegoo.com/images/avatar.jpg"/>
+            <div class="mdui-card-header-title">iMaeGoo’s Blog</div>
+            <div class="mdui-card-header-subtitle">虹墨空间站</div>
           </div>
 	    </div>
       </a>  
