@@ -3,7 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /images/logo-light.png
+logo: /images/logo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -159,9 +159,15 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqus
-    # Disqus shortname
-    shortname: ''
+    # type: disqus
+    # # Disqus shortname
+    # shortname: ''
+    type: valine
+    app_id: V0BG8g8jvo53f2ayuxetfkPS-gzGzoHsz       # (required) LeanCloud application id
+    app_key: UBzfRt4pnf1WIAFFwQriP1xt      # (required) LeanCloud application key
+    notify: false           # (optional) receive email notification
+    verify: false           # (optional) show verification code
+    placeholder: 在这里写下你的评论…   # (optional) comment box placeholder text
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
@@ -213,7 +219,7 @@ sidebar:
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: true
+        sticky: false
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:

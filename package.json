@@ -12,8 +12,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "bulma-stylus": "^0.9.1",
-    "dplayer": "^1.26.0",
+    "bulma-stylus": "^0.8.0",
     "hexo": "^5.0.0",
     "hexo-component-inferno": "^0.11.3",
     "hexo-generator-archive": "^1.0.0",
