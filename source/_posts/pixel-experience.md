@@ -22,7 +22,7 @@ excerpt: "生命在于折腾，二话不说抛弃官方上 XDA 找包。对比�
 - 存储重定向
 - Magisk + Xposed
 - Viper4Android
-- 全面屏手势，屏蔽实体按键
+- 全面屏小白条，屏蔽实体按键
 - QuickSwitch 加持 Lawnchair
 - Nevolution
 - 谷歌相机（这个 PE 自带就省得我捣鼓了）
@@ -66,12 +66,16 @@ dd if=/dev/zero of=/dev/block/bootdevice/by-name/frp
 
 强调一下使用 Edxposed 是要关闭 SeLinux 的。这个可以用镧工具箱/搞机助手/Magisk 模块解决。
 
-#### 修全面屏手势
-
-只需要刷入两个 [Magisk 模块](https://www.lanzous.com/b089ab69e)，应该是全机型通用的
+#### 全面屏小白条
+Android 10 会在界面底端单独划分出一块区域填充色块来显示小白条，效果并不好。完美的小白条沉浸只在系统桌面或系统设置等深度适配的界面才有效。以下提供两种处理方式：
 
 - Fullscreen Gestures
-- Enable Mido Navbar
+
+直接隐藏小白条，仅保留手势操作。如果对小白条不执著的话建议使用该方法。毕竟小白条也没有其他特殊的动效，只是一条横线罢了。
+
+- Immersive Gestural Navigation Bar
+
+保留小白条，仅去除小白条的色块填充背景。相当于在第一种处理方法的基础上加上一条白线，实现伪沉浸效果。
 
 #### 屏蔽物理按键/关键盘灯
 

@@ -9,16 +9,16 @@ description: 一个记录所见所想，分享认知的博客。游戏推荐，�
 keywords: IT
 author: Ojhdt
 language: zh-CN
-timezone:
+timezone: ''
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.ojhdt.com/
-root: /
 permalink: :year:month:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing index.html from permalinks
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -37,7 +37,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude:
+  exclude: ''
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -47,7 +47,14 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -73,8 +80,8 @@ meta_generator: true
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
-## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
+## updated_option supports 'mtime', 'date', 'empty'
+updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -90,29 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus
-
-plugin:
-- hexo-generator-feed
-#Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+theme: hexo-theme-icarus
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git 
-    repo: 
-      vps: git@119.23.250.254:/home/hexo.git,master
-  - type: baidu_url_submitter
-      
-sitemap:
-  path: sitemap.xml
-  
-baidu_url_submit:
-  count: 100 # 提交最新的一个链接
-  host: blog.ojhdt.com # 在百度站长平台中注册的域名
-  token: ZSNuIez9DoxAUoXQ # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
-  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里
+  type: ''

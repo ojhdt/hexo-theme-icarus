@@ -7,6 +7,10 @@ thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200203/
 toc: true
 excerpt: "最近使用的几套 Hexo 主题都没有提供独立的友情链接页面，按照 MDUI 的文档和官方示例，自己动手写了一组友情链接卡片。"
 ---
+<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css">
+<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
+
+
 [MDUI](https://www.mdui.org/) 是一套用于开发 Material Design 网页的前端框架。轻量级，无依赖，并且拥有出色的展示效果。它的学习成本很低，只需懂一点 HTML、CSS、JS 的基础知识，就能使用 MDUI。
 
 最近使用的几套 Hexo 主题都没有提供独立的友情链接页面，于是我按照 MDUI 的文档和官方示例，自己动手写了一组友情链接卡片。具体效果可以参考本站的友链页面。

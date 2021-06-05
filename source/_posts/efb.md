@@ -27,15 +27,15 @@ excerpt: "EH Forwarder Bot（简称 EFB）是一个可扩展的聊天平台隧�
 - FTP 工具（FileZilla 等）
 - 一定的英语基础
 
->想要一瞬安装？很幸运，大佬已经准备好了 Docker 镜像！[点我跳转](http://localhost:4000/20190606/efb/#Docker-%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
+>想要一瞬安装？很幸运，大佬已经准备好了 Docker 镜像！[点我跳转](http://blog.ojhdt.com/20190606/efb/#Docker-%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
 
 #### 构建运行环境
 
 1. 安装 Python
 ```
 yum install -y https://centos7.iuscommunity.org/ius-release.rpm
+yum install -y https://repo.ius.io/ius-release-el7.rpm #如果源失效可换用此源
 yum install -y python36u python36u-libs python36u-devel python36u-pip python36u-setuptools
-which -a python3.6
 ```
 2. 安装 ffmpeg
 ```
