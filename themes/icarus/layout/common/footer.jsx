@@ -5,7 +5,7 @@ class Footer extends Component {
     render() {
         const {
             logo,
-            logoUrl,
+            // logoUrl,
             logoLightUrl,
             logoDarkUrl,
             siteUrl,
