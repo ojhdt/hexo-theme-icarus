@@ -38,12 +38,15 @@ class Footer extends Component {
                             {footerLogo}
                         </a>
                         <p class="is-size-7">
-                            <span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear} ${author || siteTitle}` }}></span>
+                            <span dangerouslySetInnerHTML={{ __html: `&copy; 2018-${siteYear} ${author || siteTitle}` }}></span>
                             &nbsp;&nbsp;Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>&nbsp;&&nbsp;
                             <a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a>
                             {showVisitorCounter ? <br /> : null}
+                            <a href="http://gd.beian.miit.gov.cn" rel="nofollow">粤ICP备19036271号-1</a>
+                            {showVisitorCounter ? <br /> : null}
                             {showVisitorCounter ? <span id="busuanzi_container_site_uv"
                                 dangerouslySetInnerHTML={{ __html: visitorCounterTitle }}></span> : null}
+                            {showVisitorCounter ? <span id="busuanzi_container_site_pv">&nbsp;共<span id="busuanzi_value_site_pv">0</span>次访问</span> : null}
                         </p>
                     </div>
                     <div class="level-end">
