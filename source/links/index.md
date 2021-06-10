@@ -156,7 +156,7 @@ copyright: false
     </div>
   </div>
 </div>
-<div class="column is-full">
+<!-- <div class="column is-full">
 	<div class="card">
     <div class="card-content">
 			<a href="https://haremu.com/" target="_blank">
@@ -174,7 +174,7 @@ copyright: false
 			</a>
     </div>
   </div>
-</div>
+</div> -->
 <div class="column is-full">
 	<div class="card">
     <div class="card-content">
