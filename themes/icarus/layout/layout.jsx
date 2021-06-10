@@ -40,6 +40,7 @@ module.exports = class extends Component {
                 <Scripts site={site} config={config} helper={helper} page={page} />
                 <Search config={config} helper={helper} />
                 <script type="text/javascript" src="/js/imaegoo/universe.js"></script>
+                <link rel="stylesheet" href="/css/night.css" />
             </body>
         </html>;
     }

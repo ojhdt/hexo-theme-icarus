@@ -1,3 +1,4 @@
+  
 dark-primary-color = rgb(55, 61, 72)
 dark-primary-color-hover = rgb(67, 74, 86)
 dark-primary-color-active = rgb(44, 49, 58)
@@ -11,10 +12,9 @@ dark-font-color = #c0c0c0
     .logo-img-dark
         display: none
 
-body.night
+night()
     background: #0e1225
 
-.night
     // code highlight (https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css)
     .hljs{display:block;overflow-x:auto;padding:0.5em;color:#abb2bf;background:#282c34}.hljs-comment,.hljs-quote{color:#5c6370;font-style:italic}.hljs-doctag,.hljs-keyword,.hljs-formula{color:#c678dd}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst{color:#e06c75}.hljs-literal{color:#56b6c2}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string{color:#98c379}.hljs-built_in,.hljs-class .hljs-title{color:#e6c07b}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number{color:#d19a66}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title{color:#61aeee}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:bold}.hljs-link{text-decoration:underline}
 
@@ -55,7 +55,9 @@ body.night
 
     // navigation bar, cards
     .navbar-menu
-        background-color: inherit
+        background-color: #fff0;
+        box-shadow: 0 8px 16px rgba(10,10,10,0);
+  
     .navbar-main .navbar-menu .navbar-item
         &:hover,
         &:focus
@@ -133,6 +135,9 @@ body.night
     .v .vlist .vcard .vh,
     .v .vlist .vcard .vquote
         border-color: dark-primary-color-hover
+    .v code,
+    .v pre
+        background-color: transparent
 
     // font color
     body,
@@ -157,6 +162,7 @@ body.night
     .textarea,
     .button.is-white,
     .button.is-transparent,
+    .article-licensing,
     .v *
         color: dark-font-color
     .media-content,
@@ -167,10 +173,15 @@ body.night
         color: rgb(82, 153, 224)
         &:hover
             color: #ffffff
+    .timeline a,
+    [data-type="recent-posts"] a
+        color: dark-font-color
+        &:hover
+            color: #ffffff
 
     // quote
     .content blockquote,
-    .post-copyright
+    .article-licensing
         background-color: dark-primary-color
         border-color: dark-primary-color-hover
 
@@ -196,10 +207,13 @@ body.night
     .tag:not(body)
         color: dark-font-color
         background-color: dark-primary-color
+    .widget .tags .tag:first-child,
     .tag.is-grey
         background-color: dark-primary-color-hover
     .menu-list a:hover
         background-color: dark-primary-color
+    .menu-list a.is-active
+        background-color: dark-primary-color-hover
     .menu-list li ul
         border-color: dark-primary-color
 
@@ -240,3 +254,18 @@ body.night
     input:-webkit-autofill
         -webkit-text-fill-color: dark-font-color !important
         box-shadow: 0 0 0px 1000px dark-primary-color inset
+
+    // twikoo
+    .twikoo
+        pre
+            background-color: dark-primary-color
+        code
+            color: rgb(203,186,125)
+            background-color: dark-primary-color
+
+body.night
+    night()
+
+@media (prefers-color-scheme: dark)
+    body:not(.light)
+        night()
