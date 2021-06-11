@@ -410,7 +410,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://yuuiki.cn/usr/uploads/2020/02/3477409383.jpeg">
+            <img src="https://gravatar.loli.net/avatar/787f3e0552ca378a4ec72b41b99ddaf8">
             </figure>
           </div>
           <div class="media-content">
@@ -429,7 +429,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://p.ananas.chaoxing.com/star3/origin/e11f910a2730cc22cbb365d8d86f1351.png">
+            <img src="https://gravatar.kiwiape.cn/2d8d6700b20ebb554e928f55662d3d75">
             </figure>
           </div>
           <div class="media-content">
