@@ -116,7 +116,7 @@ navbar:
     links:
         开往-友链接力:
             icon: fas fa-paper-plane
-            url: https://travellings.now.sh/
+            url: https://travellings.link/
         订阅 RSS:
             icon: fas fa-rss
             url: /atom.xml
