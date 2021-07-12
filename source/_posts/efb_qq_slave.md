@@ -3,7 +3,7 @@ title: "Mirai端 EFB QQ Slave 安装记录"
 date: 2020-09-23 21:30:14
 categories: "小记"
 tags: [EFB,EQS,Mirai]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200923/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200923/0.png"
 toc: true
 excerpt: "EQS 功能和 QQ2TG 比较类似，但这种实现形式更为稳定，提供的功能也更多。"
 ---

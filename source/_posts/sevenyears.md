@@ -3,7 +3,7 @@ title: 那些催人泪下的剧情向（一）：我在七年后等着你
 date: 2018-09-15 14:04:12
 categories: "小记"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180915/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180915/0.png"
 toc: true
 excerpt: "七年，只为那一个能与你相遇的奇迹。"
 ---

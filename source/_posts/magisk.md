@@ -3,7 +3,7 @@ title: Magisk 刷入方法及模块推荐
 date: 2018-08-25 18:58:34
 categories: "资源"
 tags: [Root,Module,Magisk,ExtraSetting]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180825/9.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180825/9.png"
 toc: true
 excerpt: "Magisk Manager 的功能是不修改 /system 但实现修改的效果，比如隐藏 root，最重要的是不影响 OTA。和 xposed 一样，这个工具需要先刷 zip 包，在 XDA 的附件里提供。"
 ---

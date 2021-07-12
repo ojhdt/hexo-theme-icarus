@@ -3,7 +3,7 @@ title: 原生党的福音 - Pixel Experience 体验及功能拓展
 date: 2020-03-16 12:24:14
 categories: "小记"
 tags: [Android,PixelExperience]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200316/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200316/0.png"
 toc: true
 excerpt: "生命在于折腾，二话不说抛弃官方上 XDA 找包。对比了几个下载量比较大的包，发现还是 Pixel Experiences 最符合我心意。"
 ---

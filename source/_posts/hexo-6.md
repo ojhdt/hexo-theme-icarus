@@ -3,7 +3,7 @@ title: 离Hexo博客搭建只差一个教程（六）：第三方服务——对
 date: 2019-04-04 19:54:14
 categories: "教程"
 tags: [Blog,Hexo,Pic]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
 toc: true
 excerpt: "使用外挂图床可以有效提升页面载入速度。在本篇中，我们将会介绍 腾讯云对象存储 COS 的使用。"
 ---

@@ -3,7 +3,7 @@ title: 离Hexo博客搭建只差一个教程（二）：主题
 date: 2018-10-04 17:23:54
 categories: "教程"
 tags: [Blog,Hexo]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
 toc: true
 excerpt: "在主题篇中，文章将会重点介绍主题的安装与配置，以及两套优秀的主题—— NexT 与 Material 。"
 ---

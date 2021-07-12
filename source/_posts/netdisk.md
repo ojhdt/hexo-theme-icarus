@@ -3,7 +3,7 @@ title: 记一次网盘大转移
 date: 2020-04-22 00:37:46
 categories: "小记"
 tags: [Netdisk]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200422/1.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200422/1.png"
 toc: true
 excerpt: "把有用的资源整理一下转到其他稳定性高的国外网盘，脱离苦海一劳永逸。"
 ---

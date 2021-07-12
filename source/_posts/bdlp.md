@@ -3,7 +3,7 @@ title: "如何规避 步某乐跑 系统环境检测"
 date: 2020-11-06 11:11:11
 categories: "教程"
 tags: [Xposed,Magisk]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20201106/0.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20201106/0.jpg"
 toc: true
 excerpt: "这是一款致力服务于高校体育信息化管理，覆盖全国各省高校的校园智慧体育App。"
 ---

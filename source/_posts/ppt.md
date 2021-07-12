@@ -3,7 +3,7 @@ title: "使用 PowerPoint 还原 Google Cloud Next OnAir Recap: Taiwan 开场动
 date: 2020-09-07 19:05:34
 categories: "小记"
 tags: [PowerPoint]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200907/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200907/0.png"
 toc: true
 excerpt: "至少在我看来，Microsoft PowerPoint 是一款图形视频处理软件。"
 ---

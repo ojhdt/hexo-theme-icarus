@@ -3,7 +3,7 @@ title: 用 Aria2 感受飞一般的下载速度
 date: 2020-03-14 23:23:14
 categories: "教程"
 tags: [Aria2,Download]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200315/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200315/0.png"
 toc: true
 excerpt: "Aria2 是一个轻量级的多协议多源命令行下载程序。它支持 HTTP/HTTPS，FTP，SFTP，BitTorrent 和 Metalink。 aria2可以通过内置的JSON-RPC和XML-RPC接口进行操作。"
 ---

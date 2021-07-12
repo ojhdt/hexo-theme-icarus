@@ -3,7 +3,7 @@ title: 初次使用 腾讯云 CDN
 date: 2020-07-18 07:50:13
 categories: "教程"
 tags: [CDN]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200718/cdn.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200718/cdn.jpg"
 toc: true
 excerpt: "内容分发网络通过将站点内容发布至遍布全球的海量加速节点，使其用户可就近获取所需内容，避免因网络拥堵、跨运营商、跨地域、跨境等因素带来的网络不稳定、访问延迟高等问题，有效提升下载速度、降低响应时间，提供流畅的用户体验。"
 ---

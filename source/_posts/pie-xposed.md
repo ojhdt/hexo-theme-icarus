@@ -3,7 +3,7 @@ title: Android Pie（9） 上的非官方 Xposed
 date: 2019-01-31 22:01:58
 categories: "小记"
 tags: [Xposed]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190131/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190131/0.png"
 toc: true
 excerpt: "Xposed 是一款可以在不修改 APK 的情况下影响程序运行(修改系统)的框架服务，基于它可以制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。"
 ---

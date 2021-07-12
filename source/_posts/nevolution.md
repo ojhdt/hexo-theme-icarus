@@ -3,7 +3,7 @@ title: Nevolution：通知进化框架
 date: 2018-08-30 18:58:34
 categories: "资源"
 tags: [Notification,ExtraSetting,Nevolution]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180830/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180830/0.png"
 toc: true
 excerpt: "Notification Nevolution（通知进化）是一款由著名开发者 Oasis Feng 开发的通知增强框架应用，借助该应用可以提高 Android 6.0+ 上的通知系统体验。<br>
 应用仅为框架，本身并不起任何作用，需要配合插件运作。应用目前仍处于测试阶段。"

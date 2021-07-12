@@ -3,7 +3,7 @@ title: 通过 Lucky Pather 破解 Cytus II 游戏教程
 date: 2018-08-21 20:05:18
 categories: "教程"
 tags: [Games,LuckyPather]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/13.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/13.png"
 toc: true
 excerpt: "《音乐世界Cytus II》是雷亚游戏打造的音乐节奏游戏，承袭前作Cytus直觉简单的游戏方式，添加了更多的拍点玩法，在画面与剧情上提高了水准。"
 ---

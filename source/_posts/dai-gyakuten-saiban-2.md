@@ -3,7 +3,7 @@ title: 关于运行《大逆転裁判2》的一些探索
 date: 2018-08-27 20:31:05
 categories: "小记"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180827/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180827/0.png"
 toc: true
 excerpt: "《大逆转裁判2 -成步堂龙之介的觉悟-》（日语：大逆転裁判2 -成歩堂龍ノ介の覺悟-）是由卡普空开发的文字冒险游戏，于2017年8月3日在任天堂3DS平台发行。"
 ---

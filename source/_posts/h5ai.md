@@ -3,7 +3,7 @@ title: 初识 h5ai
 date: 2020-02-14 13:43:30
 categories: "小记"
 tags: [H5ai]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200215/1.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200215/1.png"
 toc: true
 excerpt: "h5ai —— 一个轻量化的 PHP 文件目录列表程序。它的大小只有100kb，但支持在线预览文本、图片、音频、视频等，已经足以满足大多数应用场景。"
 ---

@@ -3,7 +3,7 @@ title: 离Hexo博客搭建只差一个教程（附录）：Markdown 语法
 date: 2018-10-06 16:15:14
 categories: "教程"
 tags: [Blog,Hexo]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
 toc: true
 excerpt: "Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。"
 ---

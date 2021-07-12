@@ -3,7 +3,7 @@ title: QQ2TG 配合 CQHTTP Mirai 实现消息转发
 date: 2020-08-29 00:36:34
 categories: "小记"
 tags: [QQ,Telegram,QQ2TG]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200829/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200829/0.png"
 toc: true
 excerpt: "本文主要记录本人在 CentOS 下架设环境，安装软件和启动服务的相关操作。"
 ---

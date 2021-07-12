@@ -5,7 +5,7 @@ categories: "杂感"
 tags: [Life]
 toc: true
 excerpt: "我在做什么，我想做什么，我能做什么。"
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200415/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200415/0.png"
 ---
 ### 先说点
 重新审视下自己的博客，似乎与建立博客时的初心有出入。几乎都是毫无营养的`低端教程`+`资源分享`+`探索记录`的堆砌，涉及个人生活，个人观点的真正有内涵的内容则少之又少。翻看一下归档，上一篇分享游戏体验的文章也快是一年前的了。

@@ -3,7 +3,7 @@ title: KAGeXpress：老罗教你做 GalGame
 date: 2020-09-09 16:16:34
 categories: "教程"
 tags: []
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200909/0.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200909/0.jpg"
 toc: true
 excerpt: KAG（Kirikiri Adventure Game）系统是以日本W.Dee为首的吉里吉里开发团队编写的电子小说类ADV（也称作AVG）游戏引擎。
 ---

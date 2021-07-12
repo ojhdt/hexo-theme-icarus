@@ -3,7 +3,7 @@ title: SwiftBackup 真能替代 钛备份 吗
 date: 2020-07-14 09:17:37
 categories: "资源"
 tags: [Backup]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200714/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200714/0.png"
 toc: true
 excerpt: "在备份领域，Swift Backup 是当之无愧的后起之秀。经过数年的开发完善，它已经拥有了出色的界面和完善的机制，日常使用足以替代当初的神器钛备份，对得住它5刀的售价。"
 ---

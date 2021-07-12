@@ -3,7 +3,7 @@ title: 子弹短信简单上手体验
 date: 2018-08-24 12:43:38
 categories: "小记"
 tags: [Smartisan,InstantMessage]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180825/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180825/0.png"
 toc: true
 excerpt: "子弹短信（Instant Message）是锤子科技 2018 夏季新品发布会上一款重磅级软件，北京快如科技有限公司出品。目前位列App Store社交榜第一，全榜第四，具有极大的发展潜力。"
 ---

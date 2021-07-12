@@ -3,7 +3,7 @@ title: Python 学习笔记
 date: 2020-08-08 00:00:00
 categories: "小记"
 tags: [Python]
-thumbnail: ""
+cover: ""
 toc: true
 excerpt: "为方便个人学习建立的 Python 学习笔记。"
 ---

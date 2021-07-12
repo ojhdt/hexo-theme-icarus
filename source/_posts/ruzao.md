@@ -3,7 +3,7 @@ title: 那些催人泪下的剧情向（五）：如果可以回家早一点
 date: 2018-11-02 21:00:34
 categories: "小记"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181102/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181102/0.png"
 
 toc: true
 excerpt: "《如果可以回家早一点》 是一款像素风的猎奇解密游戏。获得 Taptap 9.5 分好评，自发布以来已收获 30万+ 的购买。"

@@ -3,7 +3,7 @@ title: Oneindex + now.sh 部署个人网盘
 date: 2019-01-28 16:34:18
 categories: "教程"
 tags: [Netdisk,Microsoft,Onedrive]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190128/9.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190128/9.png"
 toc: true
 excerpt: "Oneindex 是针对微软 Onedrive 开发的一个程序。它可以列出 Onedrive 的文件目录，并提供文件直链下载，使之成为一个高速，美观的个人分享网盘。"
 ---

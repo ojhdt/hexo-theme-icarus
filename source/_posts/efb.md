@@ -3,7 +3,7 @@ title: CentOS 下 通过 EH Forwarder Bot 转发 QQ 消息到 Telegram 的尝试
 date: 2019-06-06 18:51:22
 categories: "小记"
 tags: [EFB,Telegram]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190607/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190607/0.png"
 toc: true
 excerpt: "EH Forwarder Bot（简称 EFB）是一个可扩展的聊天平台隧道框架，基于 Python 3。"
 ---

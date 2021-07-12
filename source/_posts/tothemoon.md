@@ -3,7 +3,7 @@ title: 那些催人泪下的剧情向（二）：去月球 To The Moon
 date: 2018-09-15 20:36:14
 categories: "小记"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180915/6.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180915/6.png"
 toc: true
 excerpt: "爱与记忆的旅程，满分剧情的RPG游戏。<br>“感人？催泪？深度？引人入胜？无论如何用文字描述这部作品的魅力。
 《去月球》打动人心的部分，要玩过才能真正体会到。”"

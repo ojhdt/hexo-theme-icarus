@@ -3,7 +3,7 @@ title: 静好如初
 date: 2020-08-09 20:10:21
 categories: "杂感"
 tags: [Life]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200809/0.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200809/0.jpg"
 toc: true
 excerpt: "这是一篇迟到的杂感，暂且谈谈我过去的高三吧。"
 ---

@@ -3,7 +3,7 @@ title: "试用 Azure 虚拟机 & 搭建 CodeServer 云端 VS-Code"
 date: 2020-12-03 10:30:11
 categories: "小记"
 tags: [VPS,VSCode]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20201203/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20201203/0.png"
 toc: true
 excerpt: "使用 Azure 家的 Linux 服务器搭建云端 VSCode —— Code Server"
 ---

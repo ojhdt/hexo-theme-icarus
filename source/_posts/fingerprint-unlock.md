@@ -3,7 +3,7 @@ title: Remote Fingerprint Unlock：使用指纹解锁你的 Windows PC
 date: 2018-11-03 16:32:25
 categories: "教程"
 tags: [Windows,Software]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181103/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181103/0.png"
 toc: true
 excerpt: "对每次想要解锁计算机时输入密码感到厌倦？<br>
 Remote Fingerprint Unlock，它允许您通过验证已录入的指纹远程唤醒和解锁您的 Windows 计算机！"

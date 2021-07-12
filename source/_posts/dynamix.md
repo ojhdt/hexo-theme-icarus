@@ -3,7 +3,7 @@ title: 音游噩梦：Dynamix
 date: 2018-08-26 13:03:18
 categories: "资源"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180826/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180826/0.png"
 toc: true
 excerpt: "《Dynamix》是一款三重下落式的手机音乐游戏，与一般下落式音乐游戏不同，Dynamix把屏幕划分为左、中、右三大演奏判定区域。每个区域将单独演奏一种乐器的音轨。三区式的玩法设计令到游戏关卡有更丰富的变化，为玩家们提供更有趣和更高难度的挑战。"
 ---

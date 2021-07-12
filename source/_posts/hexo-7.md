@@ -3,7 +3,7 @@ title: 离Hexo博客搭建只差一个教程（七）：使用个人 VPS 搭建
 date: 2019-04-30 20:08:24
 categories: "教程"
 tags: [Blog,Hexo,VPS,BT]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
 toc: true
 excerpt: "相比使用各大互联网公司提供的 Page 服务，使用自己的服务器始终是更为稳妥的选择。教你如何一次性把 Hexo 博客部署到自己的服务器。"
 ---

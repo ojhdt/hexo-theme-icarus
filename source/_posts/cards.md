@@ -3,7 +3,7 @@ title: 中银 非人哉小玉/天依小柠檬 借记卡开箱
 date: 2020-08-18 17:12:37
 categories: "小记"
 tags: [Debit Card]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200818/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200818/0.png"
 toc: true
 excerpt: "在中国银行申请了两张长城跨境通卡用于海淘。"
 ---

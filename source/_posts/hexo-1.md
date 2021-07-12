@@ -3,7 +3,7 @@ title: 离Hexo博客搭建只差一个教程（一）：基础搭建
 date: 2018-10-02 07:12:44
 categories: "教程"
 tags: [Blog,Hexo]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181002/0.png"
 toc: true
 excerpt: "Hexo 是一个基于 Node.js 的快速、简洁且高效的博客框架。 其本身拥有强大的插件系统和主题系统。它还可以上传到 GitHub Pages，Heroku 或其他网站，是小白建站的极佳选择。
 "

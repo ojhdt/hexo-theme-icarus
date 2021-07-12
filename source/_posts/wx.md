@@ -3,7 +3,7 @@ title: "侃一侃微信办公"
 date: 2021-03-13 20:06:11
 categories: "杂感"
 tags: [Wechat]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210313/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210313/0.png"
 toc: true
 excerpt: "不是微信的理念不好，而是用户给予它太多的期望了。"
 ---

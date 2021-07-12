@@ -3,7 +3,7 @@ title: 记一次蚀刻片模型拼装
 date: 2019-03-03 15:21:12
 categories: "小记"
 tags: [Photo etched-sheets]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190303/19.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20190303/19.jpg"
 toc: true
 excerpt: 蚀刻片（Photo-etched sheets简称PE），是用一些技术腐蚀出来的金属片，一般材质有铜、不锈钢和镀膜的合金等。它的细部表现功夫凌驾于现有的各种模型材料之上，只要掌握制作技巧并辅助使用于模型上，相信可令您的作品精细度巨增。
 ---

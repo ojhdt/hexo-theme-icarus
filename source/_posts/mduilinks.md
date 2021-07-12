@@ -3,7 +3,7 @@ title: MDUI 制作简易友情链接页面
 date: 2020-02-03 19:59:44
 categories: "资源"
 tags: [MDUI]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200203/0.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200203/0.jpg"
 toc: true
 excerpt: "最近使用的几套 Hexo 主题都没有提供独立的友情链接页面，按照 MDUI 的文档和官方示例，自己动手写了一组友情链接卡片。"
 ---

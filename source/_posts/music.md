@@ -3,7 +3,7 @@ title: 曲库大整理
 date: 2020-07-27 15:59:17
 categories: "小记"
 tags: [Music,Aplayer]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200727/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200727/0.png"
 toc: true
 excerpt: "Aplayer + Pjax，这是个人博客添加音乐播放器的主流方法。配合 MetingJS ，甚至能够实现从某易云，某鹅音乐拉取歌单，在线播放。但由于版权问题，目前失效的音乐越来越多了。"
 ---

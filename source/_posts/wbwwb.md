@@ -3,7 +3,7 @@ title: 由 《We become what we behold》 所想到的
 date: 2020-04-21 00:37:46
 categories: "杂感"
 tags: [Game]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200421/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20200421/0.png"
 toc: true
 excerpt: "《WE BECOME WHAT WE BEHOLD》（我们成为我们所看到的样子）是一款游戏流程只有短短五分钟的网页 Flash 游戏，由独立游戏开发者 Nicky Case 制作。"
 ---

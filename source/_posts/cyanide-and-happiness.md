@@ -3,7 +3,7 @@ title: 氰化欢乐秀 Cyanide & Happiness 剧评
 date: 2018-10-01 09:23:48
 categories: "小记"
 tags: [Comic]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181001/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181001/0.png"
 toc: true
 excerpt: "氰化欢乐秀（Cyanide & Happiness，又翻译作快乐氰化物）是一个以黑色幽默为主题的网络漫画系列。系列首创于2004年12月9日，并于2005年1月26日正式在作者们创办的explosm.net上开始连载。透过Facebook等社交媒介的传播，网站在2006年4月便达到了超过百万的月浏览量。 漫画作者们将漫画的成功归因于其采用的各种争议题材。"
 ---

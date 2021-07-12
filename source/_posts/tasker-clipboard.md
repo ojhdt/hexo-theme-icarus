@@ -3,7 +3,7 @@ title: Tasker实现通知剪贴板
 date: 2018-08-21 15:04:05
 categories: "教程"
 tags: [Tasker,Notification]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/0.jpg"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/0.jpg"
 toc: true
 excerpt: "Tasker 是一款适用于 Android 的系统增强型软件，它能让系统根据设置的”配置文件”(Profiles)，在特定的”背景”下(Contexts)，执行指定”任务”(Tasks)。<br>
 借助Tasker及其插件Autonofication，可以实现Android原生系统无法实现的剪贴板功能。"

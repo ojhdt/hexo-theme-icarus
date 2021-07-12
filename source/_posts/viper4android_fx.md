@@ -3,7 +3,7 @@ title: ViPER4Android FX 安装及音效配置推荐
 date: 2018-09-17 11:25:48
 categories: "教程"
 tags: [Apps,Music]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180917/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180917/0.png"
 toc: true
 excerpt: "Viper4Android FX（蝰蛇音效）是一款Android全局音频驱动。通过该软件可以给音频渲染各种音频效果，如均衡器，回放增益，脉冲反馈处理，场环绕，数字混响，动态系统等。用户通过对音效的配置，在低端耳机设备下也能够明显提升音效效果。"
 ---

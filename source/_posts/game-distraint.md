@@ -3,7 +3,7 @@ title: 《扣押（DISTRAINT）》 游戏介绍
 date: 2018-08-21 20:05:18
 categories: "资源"
 tags: [Games]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/8.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20180821/8.png"
 toc: true
 excerpt: "人性的私欲是可怕的。人一旦陷入追逐欲望的漩涡中，尽管戴着伪善的面具，拿着法律的武器，说着同情的话语；在金钱利益面前，良知又算的上什么呢？独自苟生的老奶奶，与狗为伴的老头，颓丧贫穷的怪人，他们只不过是要去完成的任务，是晋升的台阶。金钱至上的领域，一切皆可卖。"
 ---

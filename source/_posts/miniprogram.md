@@ -3,7 +3,7 @@ title: "我们开发的第一款微信小程序"
 date: 2021-03-03 09:42:33
 categories: "小记"
 tags: [Wechat]
-thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210304/0.png"
+cover: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210304/0.png"
 toc: true
 excerpt: "拉拢了几名队友组建了小队，投入一个寒假的时间，体验了一把 Github 的协同工作流。"
 ---
