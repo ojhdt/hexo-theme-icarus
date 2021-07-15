@@ -9,16 +9,6 @@ excerpt: "《勇敢的心：伟大战争》是育碧蒙彼利埃工作室(Ubisof
 ---
 >这个故事所讲述的是一个四分五裂的世界中所发生的命运交织，以及一段破碎的爱情。
 
-<div class="row">
-<meting-js
-    list-folded="true"
-	theme="#1da496"	     
-	server="netease"
-	type="song"
-	id="29391498">
-</meting-js>
-</div>
-
 ## 简单介绍
 
 《勇敢的心：伟大战争》是育碧蒙彼利埃工作室(Ubisoft Montpellier)为纪念第一次世界大战一百周年而制作的一款横版解谜游戏。

@@ -9,16 +9,6 @@ excerpt: "七年，只为那一个能与你相遇的奇迹。"
 ---
 >七年，只为那一个能与你相遇的奇迹。
 
-<div class="row">
-<meting-js
-    list-folded="true"
-	theme="#1da496"	     
-	server="netease"
-	type="song"
-	id="516372224">
-</meting-js>
-</div>
-
 ## 简单介绍
 Taptap突破60万下载，评分高达9.9的满分神作。
 

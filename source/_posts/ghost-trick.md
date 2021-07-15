@@ -9,16 +9,6 @@ excerpt: "追踪自己死亡的真相。幽灵诡计（Ghost Trick:Phantom Detec
 ---
 >追踪自己死亡的真相。
 
-<div class="row">
-<meting-js
-    list-folded="true"
-	theme="#1da496"	     
-	server="netease"
-	type="song"
-	id="4948277">
-</meting-js>
-</div>
-
 ## 简单介绍
 幽灵诡计（Ghost Trick:Phantom Detective）是由日本Capcom公司发售的文字类的**NDS**冒险益智游戏。
 

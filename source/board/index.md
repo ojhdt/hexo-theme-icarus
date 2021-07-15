@@ -3,13 +3,9 @@ title: 留言板
 thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/about/night.jpg"
 copyright: false
 ---
->本站采用 Valine 评论系统。为获得最佳体验，请前往 [Gravatar](http://cn.gravatar.com/) 注册全球通用头像服务。
+>本站采用 Twikoo 评论系统。为获得最佳体验，请前往 [Gravatar](http://cn.gravatar.com/) 注册全球通用头像服务。
 
 这里是`Ojhdt's Blog`的留言板哦，让我们在此处尽情畅谈。评论时请注意填写邮箱，否则不会收到回复邮件提醒哦。
-
-### 了解我更多
-
-请转至 [关于我](https://ojhdt.com)。
 
 ### RSS订阅
 

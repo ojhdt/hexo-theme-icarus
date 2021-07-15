@@ -10,16 +10,6 @@ excerpt: "爱与记忆的旅程，满分剧情的RPG游戏。<br>“感人？催
 ---
 >爱与记忆的旅程，满分剧情的RPG游戏。
 
-<div class="row">
-<meting-js
-    list-folded="true"
-	theme="#1da496"	     
-	server="netease"
-	type="song"
-	id="1645064">
-</meting-js>
-</div>
-
 ## 简单介绍
 
 Taptap突破13万购买，评分高达9.9的满分神作。Play编辑精选，多家媒体给出高分评价。
