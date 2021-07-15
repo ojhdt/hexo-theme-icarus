@@ -80,7 +80,7 @@ excerpt: "阴沉且暗淡的天光，无风但寒冷。永远不愿离开的温�
 
 从启动游戏第一幕起，静谧的背景雨声便时刻萦绕耳边，配合柔软细腻的钢琴BGM，给人一种缓和宁静的氛围。更别提这文艺风满满的启动界面了。
 
-![启动界面](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/11.png)
+![启动界面](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/11.jpg)
 
 {% aplayer "始" "马骁飞" "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/%E9%A9%AC%E9%AA%81%E9%A3%9E%20-%20%E5%A7%8B.mp3" "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/%E9%A9%AC%E9%AA%81%E9%A3%9E%20-%20%E5%A7%8B.png" %}
 
@@ -147,7 +147,7 @@ excerpt: "阴沉且暗淡的天光，无风但寒冷。永远不愿离开的温�
 
 ![《ご注文はうさぎですか？》中的法式风情小镇](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/14.png)
 
-![喵帕斯~](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/14.png)
+![喵帕斯~](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/16.png)
 
 ![呆唯](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20210714/15.png)
 
