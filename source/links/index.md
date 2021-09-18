@@ -30,7 +30,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://s2.ax1x.com/2019/11/09/MnaN4S.jpg">
+            <img src="https://zui.moe/avatar/263c74b189be4c07afcf667400266bf6?s=400">
             </figure>
           </div>
           <div class="media-content">
@@ -49,7 +49,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://s2.ax1x.com/2019/05/10/ERYp3q.png">
+            <img src="https://zui.moe/avatar/6c488c6599d9a5855d7a5e5dbef2883f?s=500">
             </figure>
           </div>
           <div class="media-content">
@@ -429,7 +429,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://gravatar.kiwiape.cn/2d8d6700b20ebb554e928f55662d3d75">
+            <img src="https://kiwiape.cn/logo.jpg">
             </figure>
           </div>
           <div class="media-content">
