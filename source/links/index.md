@@ -463,16 +463,16 @@ copyright: false
 <div class="column is-full">
 	<div class="card">
     <div class="card-content">
-			<a href="https://furrysp.me" target="_blank">
+			<a href="https://misakishiki.site/" target="_blank">
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://www.gravatar.com/avatar/26fb4e9d679e499d8545df9f2aea519c?d=mm&s=200">
+            <img src="https://misakishiki.site/aquced.png">
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4 has-link-black-ter">SurpriseLon’s blog</p>
-            <p class="subtitle has-text-grey is-size-6 is-uppercase">あなたは主人公になりたいですか？</p>
+            <p class="title is-4 has-link-black-ter">栗木小站</p>
+            <p class="subtitle has-text-grey is-size-6 is-uppercase">搞点后现代</p>
           </div>
         </div>
 			</a>
