@@ -334,7 +334,7 @@ copyright: false
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-            <img src="https://www.gravatar.com/avatar/85b870f6b1a177981d3e9566e3ad7264?s=200">
+            <img src="https://gravatar.loli.net/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200">
             </figure>
           </div>
           <div class="media-content">
