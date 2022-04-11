@@ -243,7 +243,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ojhdt'
+        follow_link: 'https://ojhdt.com'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
