@@ -47,10 +47,12 @@ excerpt: "分享本人注册谷歌开发者账号期间有关填表，缴费，�
 截止文章发布，中国（CN）区域的账号尚无需身份验证，可以直接使用。而如果你选择了其他常用区（如美国），根据政策，系统会提示您进行身份验证。
 
 以美国为例，身份验证需要提供以下证明之一：
+
 - 驾照
 - 州身份证明
 - 美国护照
 - 绿卡
+
 蒙混过关是不存在的，一切审核都由人工进行。并且每个账号的验证次数是有限的，如果验证次数被耗尽，账号还会被直接停用。
 
 ![身份验证要求](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20220410/4.png)
@@ -87,7 +89,5 @@ excerpt: "分享本人注册谷歌开发者账号期间有关填表，缴费，�
 以下是我与 Google Pay India 客服的对话记录。
 
 ![对话记录](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20220410/11.png)
-
-![对话记录](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20220410/12.png)
 
 ![对话记录](https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20220410/13.png)
