@@ -147,6 +147,18 @@ const friendList = [{
         desc: "搞点后现代",
         url: "https://misakishiki.site/"
     },
+    {
+        name: "O's Blog",
+        avatar: "https://gravatar.loli.net/avatar/3b95a3b4174bd20abe94e4654addc770?s=65",
+        desc: "一只想咸鱼翻身的萌新",
+        url: "https://blog.ohmyga.cn/"
+    },
+    {
+        name: "RainChan的小博客",
+        avatar: "https://gravatar.loli.net/avatar/f7e8af6d341b76ad3de6757a8f86f2b4?d=mp&v=1.3.10",
+        desc: "gc大佬的博客",
+        url: "https://rainchan.win/"
+    },
 ]
 
 const con = document.getElementById("container")

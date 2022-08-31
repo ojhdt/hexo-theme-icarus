@@ -103,7 +103,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@120.78.221.244:/home/hexo.git
+  repo: git@114.132.59.52:/home/hexo.git
   branch: master
 
 # Feed
@@ -120,3 +120,9 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+sitemap:
+  path: 
+    - sitemap.xml
+  rel: false
+  tags: false
+  categories: false

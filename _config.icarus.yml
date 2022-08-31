@@ -168,7 +168,7 @@ comment:
     # verify: false           # (optional) show verification code
     # placeholder: 在这里写下你的评论…   # (optional) comment box placeholder text
     type: twikoo
-    envId: twikoo-3gquqabl0c61e108
+    envId: https://comment.ojhdt.com/
 
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
